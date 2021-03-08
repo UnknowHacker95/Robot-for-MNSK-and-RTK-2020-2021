@@ -1,1 +1,2 @@
-# Robot-for-MNSK-and-RTK-2020-2021
+# ***The robot for loading items and exploring hard-to-reach locations.***
+## This robot can transport objects on its claw. It has two modes: autonomous and controlled. Autonomous is the standard code for driving down the line and is operated by light sensors. Controlled - control mode of the robot using a gamepad, carried out with a wi-fi module. There is also a camera that transmits video to the monitor. The robot has 6 wheels, 3 on each side.
